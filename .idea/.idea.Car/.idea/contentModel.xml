@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Car.398772126.00" t="ExcludeRecursive" />
+    <e p="F:\Car" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ECCAssets" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="ECCAnimateColors.cs" t="Include" />
+            <e p="ECCAnimateUI.cs" t="Include" />
+            <e p="ECCAudioControl.cs" t="Include" />
+            <e p="ECCCar.cs" t="Include" />
+            <e p="ECCGameController.cs" t="Include" />
+            <e p="ECCGlobalMusic.cs" t="Include" />
+            <e p="ECCItem.cs" t="Include" />
+            <e p="ECCLoadLevel.cs" t="Include" />
+            <e p="ECCObstacle.cs" t="Include" />
+            <e p="ECCPlaySound.cs" t="Include" />
+            <e p="ECCRemoveAfterTime.cs" t="Include" />
+            <e p="ECCSelectButton.cs" t="Include" />
+            <e p="ECCShop.cs" t="Include" />
+            <e p="ECCSpawnAroundObject.cs" t="Include" />
+            <e p="Types" t="Include">
+              <e p="ShopItem.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Tips.cs" t="Include" />
+      </e>
+      <e p="Car.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
